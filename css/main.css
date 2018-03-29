@@ -6,6 +6,9 @@
 .title{
     color: green;
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 46px;
+    color: #294BDF;
 }
 
 .btn, .adddog{
@@ -15,15 +18,36 @@
     justify-content: center;
     flex-direction: row;
     margin: 10px;
+    text-align: center;
+}
+.pupperline {
+    text-align: center;
+    font-size: 26px;
 }
 
 .doginput, .text{
     font-family: 'Montserrat', sans-serif;
+    color: #294BDF;
 }
 
 .img-thumbnail{
     width:400px; 
     height: auto;
-    position: relative;
-    
+    position: relative;   
+}
+.adddog{
+    font-size: 20px;
+    border-radius: 30%;
+    background-color: rgb(41, 75, 223);
+    color: white;
+}
+
+.text{
+    background: linear-gradient(21deg, #294BDF, #44e7c4);
+    padding: 6px;
+    color: white;
+}
+
+.gifshere{
+    text-align: center;
 }

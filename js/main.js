@@ -1,6 +1,6 @@
 $(document).ready(function() {
     //array
-        var dogs = ["goldendoodle", "labradoodle", "schnoodle", "cockapoo", "maltipoo"];
+        var dogs = ["goldendoodle", "labradoodle", "schnoodle", "cockapoo", "maltipoo", "dalmation", "bernese mountain dog", "cocker spaniel", "yorkshire terrier", "husky", "french bulldog", "shiba inu", "pomeranian", "labrador", "great dane", "italian greyhound", "cocker spaniel", "bichon frese", "dachshund", "beagle", "havanese", "poodle", "pug", "chow chow", "shar pei"];
         console.log(dogs);
     
     //dog buttons
