@@ -1,0 +1,29 @@
+.container{
+    background-color: rgb(202, 200, 200);
+    margin: 5%;
+}
+
+.title{
+    color: green;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn, .adddog{
+    color: rgb(41, 75, 223);
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.doginput, .text{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img-thumbnail{
+    width:400px; 
+    height: auto;
+    position: relative;
+    
+}
